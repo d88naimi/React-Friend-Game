@@ -1,0 +1,7 @@
+.col-md-4 {
+    height: 240px;
+    background-size: cover;
+    cursor: pointer;
+    border: 4px solid darkorange;
+    /* margin: 2px; */
+}
